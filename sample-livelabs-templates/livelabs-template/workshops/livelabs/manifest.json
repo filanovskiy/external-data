@@ -6,7 +6,7 @@
       "help": "livelabs-help-db_us@oracle.com",
       "tutorials": [
         {
-            "title": "LiveLabs Complete Template",
+            "title": "External data processing with ADW. Quick Start",
             "description": "This is the complete template for LiveLabs content developers",
             "type": "livelabs",
             "filename": "../../livelabs-template.md"
